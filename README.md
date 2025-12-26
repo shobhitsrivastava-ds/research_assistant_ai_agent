@@ -3,7 +3,7 @@
 An AI agent to perform focused research on a topic and return optimized, verifiable results. Built in Python, this project helps automate literature & web search, extract and summarize findings, verify claims against sources, and produce shareable reports and citations.
 
 Quick links
-- Repository: https://github.com/shobhitsrivastava-ds/research_assistant_agent
+- Repository: https://github.com/shobhitsrivastava-ds/research_assistant_ai_agent
 - Language: Python
 
 ## Features
@@ -182,3 +182,4 @@ If you have questions, file an issue or open a discussion on GitHub.
 If you'd like, I can:
 - tailor the README to the actual code (update command names, class names, and examples) — point me to the main entrypoint or module names, or
 - create a ready-to-commit README and push it to the repository for you (I can draft the commit if you want).
+
